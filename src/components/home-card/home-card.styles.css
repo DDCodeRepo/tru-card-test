@@ -1,0 +1,25 @@
+.tru-img2 {
+  height: 50px;
+  width: 200px;
+  background-color: #e5e5e5;
+  position: absolute;
+  transform: translate(-50%, -50%);
+  top: 13%;
+  left: 49%;
+}
+
+.load-btn {
+  margin-top: 50px;
+  width: 300px;
+  background-color: #ffffff;
+  color: #080710;
+  padding: 15px 0;
+  font-size: 18px;
+  font-weight: 600;
+  border-radius: 5px;
+  cursor: pointer;
+  position: absolute;
+  transform: translate(-50%, -50%);
+  top: 30%;
+  left: 50%;
+}
